@@ -47,3 +47,9 @@ There must be at least one aligned DKIM-Signature for the message to be consider
 “Your account has been compromised.”
 “If you don’t act, your account might be at risk.”
 
+# CONCLUSION:
+DO NOT trust this email — these results strongly suggest it’s phishing, spoofed, or fraudulent.
+
+# TOOLS USED
+> hooksecurity.co
+> mxtoolbox.com
